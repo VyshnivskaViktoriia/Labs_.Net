@@ -1,0 +1,14 @@
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\bin\Debug\net6.0\Viktoria.TaskPlanner.exe
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\bin\Debug\net6.0\Viktoria.TaskPlanner.deps.json
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\bin\Debug\net6.0\Viktoria.TaskPlanner.runtimeconfig.json
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\bin\Debug\net6.0\Viktoria.TaskPlanner.dll
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\bin\Debug\net6.0\Viktoria.TaskPlanner.pdb
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.AssemblyInfo.cs
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.dll
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\refint\Viktoria.TaskPlanner.dll
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.pdb
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\Viktoria.TaskPlanner.genruntimeconfig.cache
+C:\Users\Viktoria\Desktop\Viktoria.TaskPlanner\Viktoria.TaskPlanner\obj\Debug\net6.0\ref\Viktoria.TaskPlanner.dll
